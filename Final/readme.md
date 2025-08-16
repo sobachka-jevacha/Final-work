@@ -25,6 +25,8 @@ test_watching_TV_without_authorization - Просмотр ТВ-каналов б
 test_return_to_main_page - Возврат на главную страницу
 test_interface_adaptability - Адаптация интерфейса при изменении размера окна
 
+Ссылка на проект по ручному тестированию сайта "Кинописк" - https://mashaasadullaeva.yonote.ru/doc/finalnyj-proekt-po-sajtu-kinopoisk-72D0VTxOvB
+
 Тесты запускаются с помощью команды :
 pytest --alluredir allure-result
 Сформировать отчёт можно по команде :
